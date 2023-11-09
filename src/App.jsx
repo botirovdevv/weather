@@ -33,8 +33,8 @@ function App() {
       "August",
       "September",
       "October",
+      "December",
       "November",
-      "December"
     ]
     let days = [
       "Sunday",
@@ -75,7 +75,9 @@ function App() {
         ): ("")}
         
       </main>
+      
     </div>
+    
   )
   }
 export default App
